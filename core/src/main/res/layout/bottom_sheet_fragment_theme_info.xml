@@ -428,7 +428,7 @@
                     android:layout_gravity="center"
                     android:padding="16dp"
                     android:text="Small shape"
-                    android:textAppearance="?attr/textAppearanceSubtitle2"
+                    android:textAppearance="?attr/textAppearanceBodyMedium"
                     android:textColor="?attr/colorOnSurface" />
 
             </com.google.android.material.card.MaterialCardView>
@@ -450,7 +450,7 @@
                     android:layout_gravity="center"
                     android:padding="16dp"
                     android:text="Medium shape"
-                    android:textAppearance="?attr/textAppearanceSubtitle2"
+                    android:textAppearance="?attr/textAppearanceBodyMedium"
                     android:textColor="?attr/colorOnSurface" />
 
             </com.google.android.material.card.MaterialCardView>
@@ -472,7 +472,7 @@
                     android:layout_gravity="center"
                     android:padding="16dp"
                     android:text="Large shape"
-                    android:textAppearance="?attr/textAppearanceSubtitle2"
+                    android:textAppearance="?attr/textAppearanceBodyMedium"
                     android:textColor="?attr/colorOnSurface" />
 
             </com.google.android.material.card.MaterialCardView>
